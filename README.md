@@ -14,8 +14,8 @@ Number and name of feature: Feature #2: Modify the contents
 
 Estimate of time needed to complete: 1-2 hours
 
-Start time: _____
+Start time: 10:20pm
 
-Finish time: _____
+Finish time: 12:00pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour 40 minutes
